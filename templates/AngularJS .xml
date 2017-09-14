@@ -1,9 +1,0 @@
-<templateSet group="AngularJS ">
-  <template name="ngrun" value="angular.module($module$)&#10;.run(function($dis$){})&#10;;" description="angular module run function for existing module" toReformat="false" toShortenFQNames="true">
-    <variable name="module" expression="" defaultValue="" alwaysStopAt="false" />
-    <variable name="dis" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-</templateSet>
