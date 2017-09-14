@@ -1,0 +1,88 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="FileColors">
+        <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+        <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+        <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+        <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="JavaScriptSettings">
+        <option name="languageLevel" value="ES6" />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>false</service-enabled>
+        <exe-path />
+        <annotation-enable>false</annotation-enable>
+        <other-services-enabled>false</other-services-enabled>
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>DOM issuesJavaScript</id>
+              </State>
+              <State>
+                <id>GeneralJavaScript</id>
+              </State>
+              <State>
+                <id>JavaScript</id>
+              </State>
+              <State>
+                <id>Node.jsJavaScript</id>
+              </State>
+              <State>
+                <id>XPath</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>AngularJS</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="options.splitter.main.proportions" value="0.3" />
+        <property name="options.lastSelected" value="web-ide.project.structure" />
+        <property name="options.splitter.details.proportions" value="0.2" />
+        <property name="options.searchVisible" value="true" />
+        <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+        <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/current/bin/node" />
+        <property name="last_opened_file_path" value="$USER_HOME$/.npm/@angular-cli" />
+        <property name="JavaScriptPreferStrict" value="false" />
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

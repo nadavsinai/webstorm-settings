@@ -1,0 +1,65 @@
+<templateSet group="Angular2">
+  <template name="ng2-bootstrap" value="import { bootstrap } from '@angular/platform-browser-dynamic';&#10;import { AppComponent } from './name.component';&#10;bootstrap(AppComponent, [])&#10;    .then(success =&gt; console.log(`Bootstrap success`))&#10;    .catch(error =&gt; console.log(error));&#10;" description="Angular 2 bootstrap snippet" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ng2-conponent-root" value="import { Component } from '@angular/core';&#10;import { HTTP_PROVIDERS } from '@angular/http';&#10;import { Route, ROUTER_DIRECTIVES, ROUTER_PROVIDERS } from '@angular/router';&#10;&#10;@Component({&#10;    selector: 'selector',&#10;    templateUrl: 'path/name.component.html',&#10;    directives: [ROUTER_DIRECTIVES],&#10;    providers: [&#10;      HTTP_PROVIDERS,&#10;      ROUTER_PROVIDERS&#10;    ]&#10;})&#10;@Route([&#10;    &#10;])&#10;export class AppComponent {}" description="Angular 2 App root component snippet" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="ng2-pipe" value="import { Pipe, PipeTransform } from 'angular2/core';&#10;&#10;@Pipe({&#10;    name: 'name'&#10;})&#10;&#10;export class PipeNamePipe implements PipeTransform {&#10;    transform(value: valuetype, args: argstype) : any {&#10;        &#10;    }&#10;}" description="Angular 2 pipe snippet" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ng2-route-path" value="{ path: '/path', as: 'RouteName', component: Component }" description="Angular 2 route path snippet" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="ng2-routes" value="@Route([&#10;    { path: '/path', as: 'RouteName', component: Component }&#10;])" description="Angular 2 route config snippet" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="ng2-service" value="import { Injectable } from '@angular/core';&#10;&#10;@Injectable()&#10;export class ServiceNameService {&#10;&#10;    constructor() { }&#10;&#10;}" description="Angular 2 service snippet" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ng2-subscribe" value="this.service.function&#10;    .subscribe(arg =&gt; this.property = arg);&#10;" description="Angular 2 observable subscribe snippet" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ng2-ngClass" value="[ngClass]=&quot;{cssClass: expression}&quot;" description="Angular 2 ngClass snippet" toReformat="false" toShortenFQNames="true" />
+  <template name="ng2-ngFor" value="*ngFor=&quot;#item of list&quot;" description="Angular 2 *ngFor snippet" toReformat="false" toShortenFQNames="true" />
+  <template name="ng2-ngIf" value="*ngIf=&quot;expression&quot;" description="Angular 2 *ngIf snippet" toReformat="false" toShortenFQNames="true" />
+  <template name="ng2-ngModel" value="[(ngModel)]=&quot;binding&quot;" description="Angular 2 ngModel snippet" toReformat="false" toShortenFQNames="true" />
+  <template name="ng2-routerLink" value="[routerLink]=&quot;['routeName']&quot;" description="Angular 2 routerLink snippet" toReformat="false" toShortenFQNames="true" />
+  <template name="ng2-ngStyle" value="[ngStyle]=&quot;{style: expression}&quot;" description="Angular 2 ngStyle snippet" toReformat="false" toShortenFQNames="true" />
+  <template name="ng2-ngSwitch" value="&lt;div [ngSwitch]=&quot;conditionExpression&quot;&gt;&#10;    &lt;template [ngSwitchWhen]=&quot;expression&quot;&gt;output&lt;/template&gt;&#10;    &lt;template ngSwitchDefault&gt;output2&lt;/template&gt;&#10;&lt;/div&gt;" description="Angular 2 ngSwitch snippet" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="ng2-component" value="import {Component} from '@angular/core';&#10;&#10;@Component({&#10;    selector:$SELECTOR$,&#10;    template:$TEMPLATE$&#10;})&#10;export class $CLASSNAME$ {&#10;    $END$&#10;}" description="Angular 2 Component" toReformat="true" toShortenFQNames="true">
+    <variable name="SELECTOR" expression="" defaultValue="$CLASSNAME$" alwaysStopAt="true" />
+    <variable name="TEMPLATE" expression="" defaultValue="``" alwaysStopAt="true" />
+    <variable name="CLASSNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="ng2-module" value="import {NgModule} from '@angular/core'&#10;@NgModule({&#10;    providers: [],&#10;    declarations: [],&#10;    imports: [],&#10;    exports: [],&#10;})&#10;export class $CLASSNAME$ {&#10;}" description="Angular2 NgModule" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASSNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
