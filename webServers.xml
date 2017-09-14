@@ -1,0 +1,29 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="04e268d7-50d1-43df-800d-f7eef646ab99" name="MediaSpace" url="http://kms.dev">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/mediaspace/public" accessType="MOUNT" />
+      </webServer>
+      <webServer id="2a7640ad-7c1e-49f3-b951-5727f0ff7c58" name="kmsui" url="http://kmsui.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="2cbacd46-0a60-43a9-b87b-b6bec071423f" name="mwembed" url="http://mwembed.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="a3319469-ca59-49b7-a2df-b1846a8c4e47" name="localhost" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="f9c15951-f79d-4c1b-9340-7c2aedfdf4cd" name="amnon.dev" url="http://amnon.dev">
+        <fileTransfer mountedRoot="$USER_HOME$/sites/amnon" accessType="MOUNT" />
+      </webServer>
+      <webServer id="fda35b0c-209d-4779-9fd1-14afe3a77677" name="davmusic.net" url="http://davmusic.net">
+        <fileTransfer host="davmusic.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
