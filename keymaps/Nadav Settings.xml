@@ -1,7 +1,8 @@
-<keymap version="1" name="NetBeans 6.5 copy" parent="NetBeans 6.5">
+<keymap version="1" name="Nadav Settings" parent="NetBeans 6.5">
   <action id="ActivatenpmToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="AutoIndentLines" />
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
@@ -27,6 +28,12 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="ExportToTextFile" />
+  <action id="ExtractInterface">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+  </action>
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+  </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift windows" second-keystroke="f" />
   </action>
@@ -40,6 +47,9 @@
   <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion" />
   <action id="Images.ShowThumbnails" />
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift alt down" />
     <keyboard-shortcut first-keystroke="shift ctrl down" />
@@ -65,6 +75,7 @@
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="RunToCursor" />
+  <action id="ShowBookmarks" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
