@@ -1,22 +1,21 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.es6.js;*.hprof;*.js.html;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;awcache;compiled;dist;inlined;node_modules;rcs;" />
+    <ignoreFiles list="*.es6.js;*.hprof;*.js.html;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;awcache;compiled;dist;inlined;rcs;" />
     <extensionMap>
+      <mapping pattern="switchbranches" type="Bash" />
+      <mapping pattern="wfw" type="PLAIN_TEXT" />
       <mapping pattern="directives" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="wfw" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
-      <mapping ext="pattern" type="PLAIN_TEXT" />
-      <mapping ext="opts" type="PLAIN_TEXT" />
-      <mapping ext="spec" type="PLAIN_TEXT" />
-      <mapping ext="pp" type="PLAIN_TEXT" />
-      <mapping ext="lss" type="PLAIN_TEXT" />
       <mapping ext="dir" type="PLAIN_TEXT" />
       <mapping ext="opt" type="PLAIN_TEXT" />
-      <mapping ext="0" type="PLAIN_TEXT" />
+      <mapping ext="pp" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="lss" type="PLAIN_TEXT" />
+      <mapping ext="spec" type="PLAIN_TEXT" />
+      <mapping ext="pattern" type="PLAIN_TEXT" />
+      <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="py" type="Perl" />
-      <mapping pattern="switchbranches" type="Bash" />
     </extensionMap>
   </component>
 </application>
