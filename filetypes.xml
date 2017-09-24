@@ -1,6 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.es6.js;*.hprof;*.js.html;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;awcache;compiled;dist;inlined;rcs;" />
+    <ignoreFiles list="*.es6.js;*.hprof;*.js.html;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;awcache;compiled;inlined;rcs;" />
     <extensionMap>
       <mapping pattern="switchbranches" type="Bash" />
       <mapping pattern="wfw" type="PLAIN_TEXT" />
