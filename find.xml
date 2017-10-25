@@ -16,7 +16,6 @@
       <mask>paclage.j</mask>
       <mask>paclage.json</mask>
       <mask>pacage.json</mask>
-      <mask>package.json</mask>
       <mask>m</mask>
       <mask>modu</mask>
       <mask>modul</mask>
@@ -34,6 +33,7 @@
       <mask>**</mask>
       <mask>*m*</mask>
       <mask>*mo*</mask>
+      <mask>package.json</mask>
     </recentFileMasks>
   </component>
 </application>
