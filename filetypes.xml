@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="format" type="Bash" />
       <mapping pattern="switchbranches" type="Bash" />
+      <mapping ext="edn" type="Clojure" />
       <mapping ext="cjs" type="Clojure" />
       <mapping pattern="directives" type="PLAIN_TEXT" />
       <mapping pattern="wfw" type="PLAIN_TEXT" />
