@@ -6,6 +6,7 @@
       <mapping pattern="switchbranches" type="Bash" />
       <mapping ext="edn" type="Clojure" />
       <mapping ext="cjs" type="Clojure" />
+      <mapping ext="bak" type="Darcs file" />
       <mapping pattern="directives" type="PLAIN_TEXT" />
       <mapping pattern="wfw" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
