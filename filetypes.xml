@@ -2,24 +2,24 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.es6.js;*.hprof;*.js.html;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;awcache;compiled;inlined;rcs;" />
     <extensionMap>
-      <mapping pattern="format" type="Bash" />
-      <mapping pattern="switchbranches" type="Bash" />
-      <mapping ext="edn" type="Clojure" />
-      <mapping ext="cjs" type="Clojure" />
-      <mapping ext="bak" type="Darcs file" />
-      <mapping pattern="directives" type="PLAIN_TEXT" />
       <mapping pattern="wfw" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="opt" type="PLAIN_TEXT" />
-      <mapping ext="lss" type="PLAIN_TEXT" />
-      <mapping ext="dir" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
-      <mapping ext="spec" type="PLAIN_TEXT" />
-      <mapping ext="pattern" type="PLAIN_TEXT" />
-      <mapping ext="pp" type="PLAIN_TEXT" />
+      <mapping pattern="directives" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
+      <mapping ext="pattern" type="PLAIN_TEXT" />
+      <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
+      <mapping ext="lss" type="PLAIN_TEXT" />
+      <mapping ext="pp" type="PLAIN_TEXT" />
+      <mapping ext="dir" type="PLAIN_TEXT" />
+      <mapping ext="opt" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="py" type="Perl" />
+      <mapping ext="bak" type="Darcs file" />
+      <mapping ext="cjs" type="Clojure" />
+      <mapping ext="edn" type="Clojure" />
+      <mapping pattern="format" type="Bash" />
+      <mapping pattern="switchbranches" type="Bash" />
     </extensionMap>
   </component>
 </application>
