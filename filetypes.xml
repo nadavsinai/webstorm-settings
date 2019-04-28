@@ -8,15 +8,14 @@
       <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="pattern" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
-      <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="lss" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="pp" type="PLAIN_TEXT" />
       <mapping ext="dir" type="PLAIN_TEXT" />
       <mapping ext="opt" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="py" type="Perl" />
       <mapping ext="bak" type="Darcs file" />
-      <mapping ext="cjs" type="Clojure" />
       <mapping ext="edn" type="Clojure" />
       <mapping pattern="format" type="Bash" />
       <mapping pattern="switchbranches" type="Bash" />
