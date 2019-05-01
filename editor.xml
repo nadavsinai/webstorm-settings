@@ -11,6 +11,11 @@
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
     <pattern icon="question" case-sensitive="true" pattern="RIBBON_REFACTOR" />
+    <pattern useCustomColors="true" case-sensitive="true" pattern="CR">
+      <option name="FOREGROUND" value="ffeb95" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="EFFECT_COLOR" value="3c3f41" />
+    </pattern>
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
