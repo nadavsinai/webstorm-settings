@@ -214,6 +214,10 @@
           <option name="url" value="https://git-srv.algotec.co.il/tfs/DefaultCollection/web-common/_git/web-common.wiki" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git-srv.algotec.co.il/tfs/DefaultCollection/web-common/_git/session-manager-client" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\" />
