@@ -66,4 +66,9 @@
       <option name="JSX_HTML" value="false" />
     </context>
   </template>
+  <template name="activeStateReducer" value="function activeStateReducer(activeState: boolean, sessionAction: ISessionAction) {&#10;&#9;if (sessionAction.requestStatus === SessionRequestStatus.APPROVE){&#10;&#9;&#9;switch (sessionAction.type) {&#10;&#9;&#9;&#9;case SessionStateTransitionTypes.ACTIVATE:&#10;&#9;&#9;&#9;&#9;return true;&#10;&#9;&#9;&#9;&#9;break;&#10;&#9;&#9;&#9;case SessionStateTransitionTypes.DEACTIVATE:&#10;&#9;&#9;&#9;&#9;return false;&#10;&#9;&#9;}}&#10;&#9;return activeState;&#10;}&#10;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
