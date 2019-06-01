@@ -11,11 +11,12 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="f" value="    &#10;function $name$ ($var$){&#10;$SELECTION$ $END$&#10;return;&#10;};" description="" toReformat="true" toShortenFQNames="true">
+  <template name="func" value="function $name$ ($var$){&#10;$SELECTION$ $END$&#10;return;&#10;}" description="" toReformat="true" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JS_STATEMENT" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
     </context>
   </template>
   <template name="me" value="module.exports = $END$" description="" toReformat="true" toShortenFQNames="true">
@@ -55,6 +56,18 @@
       <option name="CoffeeScript" value="true" />
       <option name="DART" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="f" value="($var$) =&gt; {&#10;    $SELECTION$ $END$&#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+    </context>
+  </template>
+  <template name="activeStateReducer" value="function activeStateReducer(activeState: boolean, sessionAction: ISessionAction) {&#10;&#9;if (sessionAction.requestStatus === SessionRequestStatus.APPROVE){&#10;&#9;&#9;switch (sessionAction.type) {&#10;&#9;&#9;&#9;case SessionStateTransitionTypes.ACTIVATE:&#10;&#9;&#9;&#9;&#9;return true;&#10;&#9;&#9;&#9;&#9;break;&#10;&#9;&#9;&#9;case SessionStateTransitionTypes.DEACTIVATE:&#10;&#9;&#9;&#9;&#9;return false;&#10;&#9;&#9;}}&#10;&#9;return activeState;&#10;}&#10;" toReformat="false" toShortenFQNames="true">
+    <context>
       <option name="TypeScript" value="true" />
     </context>
   </template>
