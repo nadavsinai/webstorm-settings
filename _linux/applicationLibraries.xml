@@ -54,6 +54,374 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="Elixir 1.7.2">
+      <CLASSES>
+        <root url="file:///usr/share/elixir/1.7.2/lib/elixir/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/mix/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/ex_unit/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/logger/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/iex/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/eex/ebin" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="Elixir 1.7.2">
+      <CLASSES>
+        <root url="file:///usr/share/elixir/1.7.2/lib/elixir/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/mix/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/ex_unit/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/logger/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/iex/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/eex/ebin" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="Elixir 1.7.2">
+      <CLASSES>
+        <root url="file:///usr/share/elixir/1.7.2/lib/elixir/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/mix/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/ex_unit/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/logger/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/iex/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/eex/ebin" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="Elixir 1.7.2">
+      <CLASSES>
+        <root url="file:///usr/share/elixir/1.7.2/lib/elixir/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/mix/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/ex_unit/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/logger/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/iex/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/eex/ebin" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="Elixir 1.7.2">
+      <CLASSES>
+        <root url="file:///usr/share/elixir/1.7.2/lib/elixir/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/mix/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/ex_unit/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/logger/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/iex/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/eex/ebin" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="Elixir 1.7.2">
+      <CLASSES>
+        <root url="file:///usr/share/elixir/1.7.2/lib/elixir/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/mix/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/ex_unit/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/logger/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/iex/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/eex/ebin" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="Elixir 1.7.2">
+      <CLASSES>
+        <root url="file:///usr/share/elixir/1.7.2/lib/elixir/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/mix/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/ex_unit/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/logger/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/iex/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/eex/ebin" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="Elixir 1.7.2">
+      <CLASSES>
+        <root url="file:///usr/share/elixir/1.7.2/lib/elixir/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/mix/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/ex_unit/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/logger/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/iex/ebin" />
+        <root url="file:///usr/share/elixir/1.7.2/lib/eex/ebin" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="Erlang for Elixir 20">
+      <CLASSES>
+        <root url="file:///usr/lib64/erlang/lib/edoc-0.9.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/xmerl-1.3.16.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/eflame-0/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/erl_interface-3.10.2.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/common_test-1.15.4.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/asn1-5.0.5.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/orber-3.8.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/ssl-8.2.6.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/lfe-1.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/public_key-1.5.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/runtime_tools-1.12.5/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosNotification-1.2.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosTransactions-1.3.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/megaco-3.18.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/inets-6.5.2.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/otp_mibs-1.1.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/mnesia-4.15.3.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/mustache-0.1.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/os_mon-2.4.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/crypto-4.2.2.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/odbc-2.12.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/eldap-1.2.3.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/jinterface-1.8.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/diameter-2.1.4.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/syntax_tools-2.1.4.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/reltool-0.7.5/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/parsetools-2.1.6/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/debugger-4.2.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/ssh-4.6.9.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/ic-4.4.4.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/tools-2.11.2.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/compiler-7.1.5.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/et-1.6.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/hipe-3.17.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/erl_docgen-0.7.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/erts-9.3.3.10/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/getopt-1.0.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/sasl-3.1.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/snmp-5.2.11.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosTime-1.2.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosProperty-1.2.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/neotoma-1.7.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/stdlib-3.4.5.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/wx-1.8.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/kernel-5.4.3.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosEventDomain-1.2.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/eunit-2.3.5/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosFileTransfer-1.2.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/observer-2.7/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosEvent-2.2.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/dialyzer-3.2.4/ebin" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="Erlang for Elixir 20">
+      <CLASSES>
+        <root url="file:///usr/lib64/erlang/lib/edoc-0.9.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/xmerl-1.3.16.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/eflame-0/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/erl_interface-3.10.2.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/common_test-1.15.4.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/asn1-5.0.5.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/orber-3.8.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/ssl-8.2.6.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/lfe-1.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/public_key-1.5.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/runtime_tools-1.12.5/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosNotification-1.2.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosTransactions-1.3.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/megaco-3.18.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/inets-6.5.2.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/otp_mibs-1.1.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/mnesia-4.15.3.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/mustache-0.1.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/os_mon-2.4.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/crypto-4.2.2.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/odbc-2.12.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/eldap-1.2.3.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/jinterface-1.8.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/diameter-2.1.4.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/syntax_tools-2.1.4.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/reltool-0.7.5/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/parsetools-2.1.6/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/debugger-4.2.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/ssh-4.6.9.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/ic-4.4.4.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/tools-2.11.2.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/compiler-7.1.5.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/et-1.6.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/hipe-3.17.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/erl_docgen-0.7.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/erts-9.3.3.10/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/getopt-1.0.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/sasl-3.1.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/snmp-5.2.11.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosTime-1.2.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosProperty-1.2.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/neotoma-1.7.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/stdlib-3.4.5.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/wx-1.8.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/kernel-5.4.3.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosEventDomain-1.2.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/eunit-2.3.5/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosFileTransfer-1.2.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/observer-2.7/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosEvent-2.2.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/dialyzer-3.2.4/ebin" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="Erlang for Elixir 20">
+      <CLASSES>
+        <root url="file:///usr/lib64/erlang/lib/edoc-0.9.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/xmerl-1.3.16.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/eflame-0/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/erl_interface-3.10.2.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/common_test-1.15.4.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/asn1-5.0.5.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/orber-3.8.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/ssl-8.2.6.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/lfe-1.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/public_key-1.5.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/runtime_tools-1.12.5/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosNotification-1.2.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosTransactions-1.3.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/megaco-3.18.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/inets-6.5.2.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/otp_mibs-1.1.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/mnesia-4.15.3.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/mustache-0.1.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/os_mon-2.4.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/crypto-4.2.2.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/odbc-2.12.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/eldap-1.2.3.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/jinterface-1.8.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/diameter-2.1.4.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/syntax_tools-2.1.4.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/reltool-0.7.5/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/parsetools-2.1.6/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/debugger-4.2.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/ssh-4.6.9.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/ic-4.4.4.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/tools-2.11.2.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/compiler-7.1.5.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/et-1.6.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/hipe-3.17.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/erl_docgen-0.7.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/erts-9.3.3.10/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/getopt-1.0.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/sasl-3.1.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/snmp-5.2.11.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosTime-1.2.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosProperty-1.2.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/neotoma-1.7.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/stdlib-3.4.5.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/wx-1.8.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/kernel-5.4.3.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosEventDomain-1.2.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/eunit-2.3.5/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosFileTransfer-1.2.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/observer-2.7/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosEvent-2.2.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/dialyzer-3.2.4/ebin" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="Erlang for Elixir 20">
+      <CLASSES>
+        <root url="file:///usr/lib64/erlang/lib/edoc-0.9.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/xmerl-1.3.16.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/eflame-0/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/erl_interface-3.10.2.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/common_test-1.15.4.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/asn1-5.0.5.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/orber-3.8.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/ssl-8.2.6.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/lfe-1.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/public_key-1.5.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/runtime_tools-1.12.5/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosNotification-1.2.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosTransactions-1.3.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/megaco-3.18.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/inets-6.5.2.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/otp_mibs-1.1.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/mnesia-4.15.3.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/mustache-0.1.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/os_mon-2.4.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/crypto-4.2.2.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/odbc-2.12.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/eldap-1.2.3.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/jinterface-1.8.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/diameter-2.1.4.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/syntax_tools-2.1.4.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/reltool-0.7.5/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/parsetools-2.1.6/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/debugger-4.2.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/ssh-4.6.9.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/ic-4.4.4.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/tools-2.11.2.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/compiler-7.1.5.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/et-1.6.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/hipe-3.17.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/erl_docgen-0.7.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/erts-9.3.3.10/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/getopt-1.0.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/sasl-3.1.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/snmp-5.2.11.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosTime-1.2.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosProperty-1.2.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/neotoma-1.7.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/stdlib-3.4.5.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/wx-1.8.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/kernel-5.4.3.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosEventDomain-1.2.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/eunit-2.3.5/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosFileTransfer-1.2.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/observer-2.7/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosEvent-2.2.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/dialyzer-3.2.4/ebin" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="Erlang for Elixir 20">
+      <CLASSES>
+        <root url="file:///usr/lib64/erlang/lib/edoc-0.9.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/xmerl-1.3.16.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/eflame-0/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/erl_interface-3.10.2.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/common_test-1.15.4.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/asn1-5.0.5.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/orber-3.8.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/ssl-8.2.6.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/lfe-1.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/public_key-1.5.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/runtime_tools-1.12.5/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosNotification-1.2.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosTransactions-1.3.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/megaco-3.18.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/inets-6.5.2.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/otp_mibs-1.1.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/mnesia-4.15.3.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/mustache-0.1.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/os_mon-2.4.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/crypto-4.2.2.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/odbc-2.12.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/eldap-1.2.3.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/jinterface-1.8.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/diameter-2.1.4.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/syntax_tools-2.1.4.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/reltool-0.7.5/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/parsetools-2.1.6/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/debugger-4.2.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/ssh-4.6.9.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/ic-4.4.4.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/tools-2.11.2.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/compiler-7.1.5.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/et-1.6.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/hipe-3.17.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/erl_docgen-0.7.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/erts-9.3.3.10/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/getopt-1.0.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/sasl-3.1.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/snmp-5.2.11.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosTime-1.2.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosProperty-1.2.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/neotoma-1.7.4/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/stdlib-3.4.5.1/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/wx-1.8.3/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/kernel-5.4.3.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosEventDomain-1.2.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/eunit-2.3.5/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosFileTransfer-1.2.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/observer-2.7/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/cosEvent-2.2.2/ebin" />
+        <root url="file:///usr/lib64/erlang/lib/dialyzer-3.2.4/ebin" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="express-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$USER_HOME$/.WebIde80/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_express_express.d.ts" />
