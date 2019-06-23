@@ -71,7 +71,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="cl" value="/*?$SELECTION$ $END$*/" toReformat="false" toShortenFQNames="true">
+  <template name="cl" value="/*?$SELECTION$ $END$*/" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
