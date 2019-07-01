@@ -226,9 +226,13 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="nadavsinai" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nadavsinai/AngularMaterialFirebase.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\" />
+    <option name="cloneParentDir" value="$USER_HOME$/linData/linData-sites" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
