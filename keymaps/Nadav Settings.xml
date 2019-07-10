@@ -95,4 +95,7 @@
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
+  <action id="com.wallaby.javascript.actions.ShowValueAction">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
 </keymap>
