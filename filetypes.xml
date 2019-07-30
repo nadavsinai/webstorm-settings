@@ -2,20 +2,31 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.es6.js;*.hprof;*.js.html;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;awcache;compiled;inlined;rcs;" />
     <extensionMap>
-      <mapping pattern="wfw" type="PLAIN_TEXT" />
-      <mapping pattern=".order" type="PLAIN_TEXT" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="directives" type="PLAIN_TEXT" />
-      <mapping ext="file" type="PLAIN_TEXT" />
+      <mapping pattern="wfw" type="PLAIN_TEXT" />
+      <mapping pattern=".order" type="PLAIN_TEXT" />
+      <mapping ext="lss" type="PLAIN_TEXT" />
+      <mapping ext="dir" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="pattern" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
-      <mapping ext="0" type="PLAIN_TEXT" />
-      <mapping ext="lss" type="PLAIN_TEXT" />
+      <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="pp" type="PLAIN_TEXT" />
-      <mapping ext="dir" type="PLAIN_TEXT" />
       <mapping ext="opt" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="0" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping ext="py" type="Perl" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping ext="bak" type="Darcs file" />
       <mapping ext="edn" type="Clojure" />
       <mapping pattern="format" type="Bash" />
