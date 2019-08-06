@@ -30,6 +30,7 @@
   <action id="ActivatenpmToolWindow">
     <keyboard-shortcut first-keystroke="ctrl 9" />
   </action>
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="BazelBuildFormatter.Format" />
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="ctrl k" />
@@ -48,6 +49,9 @@
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditSource" />
   <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
@@ -72,6 +76,7 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
+  <action id="GotoNextElementUnderCaretUsage" />
   <action id="GotoTest" />
   <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion" />
@@ -99,10 +104,12 @@
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="ShowContent" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
+  <action id="ShowSearchHistory" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -119,6 +126,7 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="ThePlugin.JIRA.ShowHideJIRATab" />
+  <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
