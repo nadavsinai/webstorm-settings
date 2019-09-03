@@ -44,8 +44,10 @@
   <action id="CompareDirs" />
   <action id="CompareJars" />
   <action id="CompareTwoFiles" />
+  <action id="Console.Execute.Multiline" />
   <action id="DatabaseView.ShowDiff" />
   <action id="Diff.UpdatedFiles" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditSource" />
   <action id="EditorChooseLookupItemCompleteStatement" />
@@ -53,7 +55,7 @@
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="EditorCompleteStatement">
-    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
@@ -62,6 +64,7 @@
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="EditorSplitLine" />
   <action id="ExportToTextFile" />
   <action id="FileChooser.GotoProject" />
   <action id="FindInPath">
@@ -133,5 +136,7 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
+  <action id="ViewSource" />
   <action id="XDebugger.JumpToSource" />
+  <action id="com.intellij.lang.jsgraphql.v1.ide.actions.JSGraphQLExecuteEditorAction" />
 </keymap>
