@@ -8,7 +8,7 @@
     </general>
     <debuggers>
       <debugger id="javascript">
-        <configuration>
+        <configuration watchReturnValues="true">
           <custom-object-presentation />
           <stepping-filters-enabled>false</stepping-filters-enabled>
         </configuration>
