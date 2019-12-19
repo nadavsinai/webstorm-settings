@@ -8,6 +8,7 @@
       <mapping pattern="directives" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".bash_history" type="PLAIN_TEXT" />
+      <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="pattern" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
