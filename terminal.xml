@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="$USER_HOME$/bashlink" />
+    <option name="myShellPath" value="C:\Program Files\Git\bin\bash.exe" />
     <option name="myTabName" value="BASH" />
   </component>
 </application>

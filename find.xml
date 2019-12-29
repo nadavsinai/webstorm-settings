@@ -13,6 +13,8 @@
     <mask>*.js,</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
+    <mask>*.spec.ts</mask>
+    <mask>*json</mask>
     <mask>package.json</mask>
     <mask>*.ts</mask>
   </component>
