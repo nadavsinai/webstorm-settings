@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="tsconfig.lib.json" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -17,5 +18,6 @@
     <mask>*json</mask>
     <mask>package.json</mask>
     <mask>*.ts</mask>
+    <mask>tsconfig.lib.json</mask>
   </component>
 </application>
