@@ -15,7 +15,8 @@
     <mask>*.js</mask>
     <mask>*.spec.ts</mask>
     <mask>*json</mask>
-    <mask>package.json</mask>
     <mask>*.ts</mask>
+    <mask>tsconfig.lib.json</mask>
+    <mask>package.json</mask>
   </component>
 </application>
