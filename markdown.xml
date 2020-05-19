@@ -1,6 +1,6 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings StylesheetUri="" />
+    <MarkdownCssSettings />
     <MarkdownPreviewSettings>
       <HtmlPanelProviderInfo>
         <ProviderInfo name="JCEF Browser" className="org.intellij.plugins.markdown.ui.preview.jcef.JCEFHtmlPanelProvider" />
