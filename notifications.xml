@@ -1,35 +1,23 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Angular CLI" />
     <notification groupId="Browser Connection" />
-    <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" />
     <notification groupId="Database editor log" displayType="NONE" />
     <notification groupId="Database refactoring log" displayType="NONE" />
     <notification groupId="Database view" displayType="TOOL_WINDOW" />
-    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" shouldLog="false" />
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
-    <notification groupId="Error Report" />
-    <notification groupId="External Executable Critical Failures" displayType="STICKY_BALLOON" />
     <notification groupId="File Watcher Messages" displayType="STICKY_BALLOON" />
-    <notification groupId="File Watchers" />
     <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />
     <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
-    <notification groupId="Git Minor Notifications" />
     <notification groupId="IDE Fatal Errors" displayType="NONE" />
     <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Inspection Results" displayType="TOOL_WINDOW" />
     <notification groupId="JavaScript debugger" displayType="TOOL_WINDOW" shouldLog="false" />
     <notification groupId="Node.js Boilerplate Project Generator" displayType="STICKY_BALLOON" />
-    <notification groupId="Node.js Project Detector" />
-    <notification groupId="Open in GitHub" />
     <notification groupId="PHP Debugger" displayType="TOOL_WINDOW" shouldLog="false" />
     <notification groupId="PHP-CGI Server" displayType="STICKY_BALLOON" />
     <notification groupId="Plugins Lifecycle Group" displayType="STICKY_BALLOON" />
-    <notification groupId="Plugins Suggestion" displayType="STICKY_BALLOON" />
-    <notification groupId="Reformat Code" />
-    <notification groupId="System Messages" />
     <notification groupId="Update Checker" displayType="STICKY_BALLOON" />
     <notification groupId="Upgrade Subscription Renewal" displayType="NONE" shouldLog="false" />
-    <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" />
-    <notification groupId="Vcs Minor Notifications" />
   </component>
 </application>
