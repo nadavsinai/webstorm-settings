@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="webpack.*" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -27,5 +28,6 @@
     <mask>package.json</mask>
     <mask>*.ts</mask>
     <mask>*.json</mask>
+    <mask>webpack.*</mask>
   </component>
 </application>
