@@ -79,8 +79,19 @@
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
   </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="alt o" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <mouse-shortcut keystroke="control alt button1" />
+    <keyboard-shortcut first-keystroke="shift f12" />
   </action>
   <action id="GotoNextElementUnderCaretUsage" />
   <action id="GotoTest" />
@@ -91,6 +102,7 @@
     <keyboard-shortcut first-keystroke="shift alt c" />
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
+  <action id="JumpToLastWindow" />
   <action id="QuickChangeScheme" />
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="ctrl q" />
@@ -110,6 +122,7 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift windows" second-keystroke="r" />
   </action>
+  <action id="RestoreDefaultLayout" />
   <action id="RunToCursor" />
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl s" />
