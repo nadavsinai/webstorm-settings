@@ -17,6 +17,7 @@
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="pp" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="lss" type="PLAIN_TEXT" />
       <mapping ext="py" type="Perl" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
