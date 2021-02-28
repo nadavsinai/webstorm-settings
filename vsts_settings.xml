@@ -44,8 +44,8 @@
           <option name="serverUri" value="http://_TFS_LAST_USED_URL_" />
           <option name="userId" value="ee0a0448-fd69-42b1-97eb-25e65af33109" />
           <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;8b665e57-d480-4c89-b084-0aa2b25cd52a&quot;,&quot;name&quot;:&quot;DefaultCollection&quot;,&quot;url&quot;:&quot;https://git-srv.algotec.co.il/tfs/_apis/projectCollections/8b665e57-d480-4c89-b084-0aa2b25cd52a&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;At last, I escaped ClearCase&quot;,&quot;id&quot;:&quot;e6110087-4005-44e8-892f-8cd75f02ff5e&quot;,&quot;name&quot;:&quot;PACS&quot;,&quot;revision&quot;:360,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://git-srv.algotec.co.il/tfs/DefaultCollection/_apis/projects/e6110087-4005-44e8-892f-8cd75f02ff5e&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;3935059d-e465-422f-9d05-52690a9b9a41&quot;,&quot;name&quot;:&quot;client-workspace&quot;,&quot;remoteUrl&quot;:&quot;https://git-srv.algotec.co.il/tfs/DefaultCollection/PACS/_git/client-workspace&quot;,&quot;url&quot;:&quot;https://git-srv.algotec.co.il/tfs/DefaultCollection/_apis/git/repositories/3935059d-e465-422f-9d05-52690a9b9a41&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;At last, I escaped ClearCase&quot;,&quot;id&quot;:&quot;e6110087-4005-44e8-892f-8cd75f02ff5e&quot;,&quot;name&quot;:&quot;PACS&quot;,&quot;revision&quot;:360,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://git-srv.algotec.co.il/tfs/DefaultCollection/_apis/projects/e6110087-4005-44e8-892f-8cd75f02ff5e&quot;},&quot;_links&quot;:null}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;5e3f9ca9-0b5e-420e-8ee4-62f8363f26d2&quot;,&quot;name&quot;:&quot;mp&quot;,&quot;revision&quot;:307,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://git-srv.algotec.co.il/tfs/DefaultCollection/_apis/projects/5e3f9ca9-0b5e-420e-8ee4-62f8363f26d2&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;86f4865e-ce10-4f59-be53-56504053c74b&quot;,&quot;name&quot;:&quot;mp.wiki&quot;,&quot;remoteUrl&quot;:&quot;https://git-srv.algotec.co.il/tfs/DefaultCollection/mp/_git/mp.wiki&quot;,&quot;url&quot;:&quot;https://git-srv.algotec.co.il/tfs/DefaultCollection/_apis/git/repositories/86f4865e-ce10-4f59-be53-56504053c74b&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;5e3f9ca9-0b5e-420e-8ee4-62f8363f26d2&quot;,&quot;name&quot;:&quot;mp&quot;,&quot;revision&quot;:307,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://git-srv.algotec.co.il/tfs/DefaultCollection/_apis/projects/5e3f9ca9-0b5e-420e-8ee4-62f8363f26d2&quot;},&quot;_links&quot;:null}" />
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="TFS" />
@@ -55,6 +55,15 @@
           <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;8b665e57-d480-4c89-b084-0aa2b25cd52a&quot;,&quot;name&quot;:&quot;DefaultCollection&quot;,&quot;url&quot;:&quot;https://git-srv.algotec.co.il/tfs/_apis/projectCollections/8b665e57-d480-4c89-b084-0aa2b25cd52a&quot;}" />
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;bf6c2a0c-e8b1-49f6-a242-8e2aa114a822&quot;,&quot;name&quot;:&quot;web-common&quot;,&quot;revision&quot;:290,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://git-srv.algotec.co.il/tfs/DefaultCollection/_apis/projects/bf6c2a0c-e8b1-49f6-a242-8e2aa114a822&quot;}" />
           <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;62d8d4ff-04ff-4bb2-b4cf-26a7b6d78f07&quot;,&quot;name&quot;:&quot;workspace-project&quot;,&quot;remoteUrl&quot;:&quot;https://git-srv.algotec.co.il/tfs/DefaultCollection/web-common/_git/workspace-project&quot;,&quot;url&quot;:&quot;https://git-srv.algotec.co.il/tfs/DefaultCollection/_apis/git/repositories/62d8d4ff-04ff-4bb2-b4cf-26a7b6d78f07&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;bf6c2a0c-e8b1-49f6-a242-8e2aa114a822&quot;,&quot;name&quot;:&quot;web-common&quot;,&quot;revision&quot;:290,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://git-srv.algotec.co.il/tfs/DefaultCollection/_apis/projects/bf6c2a0c-e8b1-49f6-a242-8e2aa114a822&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="TFS" />
+          <option name="uri" value="https://git-srv.algotec.co.il/tfs/DefaultCollection/mp/_git/mp.wiki" />
+          <option name="serverUri" value="https://git-srv.algotec.co.il/tfs" />
+          <option name="userId" value="ee0a0448-fd69-42b1-97eb-25e65af33109" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;8b665e57-d480-4c89-b084-0aa2b25cd52a&quot;,&quot;name&quot;:&quot;DefaultCollection&quot;,&quot;url&quot;:&quot;https://git-srv.algotec.co.il/tfs/_apis/projectCollections/8b665e57-d480-4c89-b084-0aa2b25cd52a&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;5e3f9ca9-0b5e-420e-8ee4-62f8363f26d2&quot;,&quot;name&quot;:&quot;mp&quot;,&quot;revision&quot;:307,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://git-srv.algotec.co.il/tfs/DefaultCollection/_apis/projects/5e3f9ca9-0b5e-420e-8ee4-62f8363f26d2&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;86f4865e-ce10-4f59-be53-56504053c74b&quot;,&quot;name&quot;:&quot;mp.wiki&quot;,&quot;remoteUrl&quot;:&quot;https://git-srv.algotec.co.il/tfs/DefaultCollection/mp/_git/mp.wiki&quot;,&quot;url&quot;:&quot;https://git-srv.algotec.co.il/tfs/DefaultCollection/_apis/git/repositories/86f4865e-ce10-4f59-be53-56504053c74b&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;5e3f9ca9-0b5e-420e-8ee4-62f8363f26d2&quot;,&quot;name&quot;:&quot;mp&quot;,&quot;revision&quot;:307,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://git-srv.algotec.co.il/tfs/DefaultCollection/_apis/projects/5e3f9ca9-0b5e-420e-8ee4-62f8363f26d2&quot;},&quot;_links&quot;:null}" />
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="TFS" />
@@ -79,7 +88,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//git-srv.algotec.co.il/tfs/defaultcollection/pacs/_git/client-workspace" />
+          <option name="value" value="//_tfs_last_used_url_" />
         </PropertyState>
       </array>
     </option>
