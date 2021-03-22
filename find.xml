@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -25,8 +26,8 @@
     <mask>tsconfig.*</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
-    <mask>*.json</mask>
     <mask>*.ts</mask>
     <mask>*.ts,*.html</mask>
+    <mask>*.json</mask>
   </component>
 </application>
