@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.es6.js;*.js.html;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;awcache;compiled;inlined;rcs;" />
     <extensionMap>
-      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="wfw" type="PLAIN_TEXT" />
       <mapping pattern=".czrc" type="PLAIN_TEXT" />
       <mapping pattern=".order" type="PLAIN_TEXT" />
