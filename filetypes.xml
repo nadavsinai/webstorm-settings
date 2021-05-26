@@ -7,10 +7,13 @@
       <mapping pattern=".order" type="PLAIN_TEXT" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern=".bash_history" type="PLAIN_TEXT" />
+      <mapping pattern=".signature.p7s" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="directives" type="PLAIN_TEXT" />
+      <mapping ext="nupkg" type="PLAIN_TEXT" />
       <mapping ext="dir" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
+      <mapping ext="resx" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="opt" type="PLAIN_TEXT" />
       <mapping ext="pattern" type="PLAIN_TEXT" />
