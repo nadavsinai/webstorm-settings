@@ -254,6 +254,10 @@
           <option name="url" value="https://git-srv.algotec.co.il/tfs/DefaultCollection/web/_git/seq-reading" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git-srv.algotec.co.il/tfs/DefaultCollection/PACS/_git/PACS.wiki" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="G:\Data" />
